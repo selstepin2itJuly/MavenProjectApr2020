@@ -1,0 +1,454 @@
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] DEBUG testbase.TestBase  - Before class method Call
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] DEBUG testbase.TestBase  - After class method Call
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] DEBUG testbase.TestBase  - Before class method Call
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] DEBUG testbase.TestBase  - After class method Call
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] DEBUG testbase.TestBase  - Before class method Call
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] DEBUG testbase.TestBase  - After class method Call
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] DEBUG testbase.TestBase  - Before class method Call
+[pool-1-thread-2] INFO  testbase.TestBase  - Start reading properties
+[pool-1-thread-1] INFO  testbase.TestBase  - Start reading properties
+[pool-1-thread-3] INFO  testbase.TestBase  - Start reading properties
+[pool-1-thread-3] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[pool-1-thread-1] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[pool-1-thread-2] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[pool-1-thread-2] INFO  testbase.TestBase  - Maximize Browser
+[pool-1-thread-3] INFO  testbase.TestBase  - Maximize Browser
+[pool-1-thread-1] INFO  testbase.TestBase  - Maximize Browser
+[pool-1-thread-3] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[pool-1-thread-2] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[pool-1-thread-1] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] DEBUG testbase.TestBase  - After class method Call
+[pool-1-thread-6] INFO  testbase.TestBase  - Start reading properties
+[pool-1-thread-6] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[pool-1-thread-6] INFO  testbase.TestBase  - Maximize Browser
+[pool-1-thread-6] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[pool-1-thread-1] DEBUG testbase.TestBase  - Before class method Call
+[pool-1-thread-2] INFO  testbase.TestBase  - Start reading properties
+[pool-1-thread-1] INFO  testbase.TestBase  - Start reading properties
+[pool-1-thread-2] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[pool-1-thread-1] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[pool-1-thread-1] INFO  testbase.TestBase  - Maximize Browser
+[pool-1-thread-2] INFO  testbase.TestBase  - Maximize Browser
+[pool-1-thread-2] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[pool-1-thread-1] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[pool-1-thread-1] INFO  testbase.TestBase  - Start reading properties
+[pool-1-thread-1] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[pool-1-thread-1] INFO  testbase.TestBase  - Maximize Browser
+[pool-1-thread-1] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[pool-1-thread-1] INFO  testbase.TestBase  - Start reading properties
+[pool-1-thread-1] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[pool-1-thread-1] INFO  testbase.TestBase  - Maximize Browser
+[pool-1-thread-1] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[pool-1-thread-1] DEBUG testbase.TestBase  - After class method Call
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - class testcases_testng.TestcaseTwo_browserOnce
+[main] INFO  testbase.TestBase  - Before Method
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - The credentials provided are incorrect
+[main] INFO  testbase.TestBase  - Welcome, please sign in!
+[main] INFO  testbase.TestBase  - After Method
+[main] INFO  testbase.TestBase  - Browser Closed
+[main] INFO  testbase.TestBase  - class testcases_testng.TestcaseTwo_browserOnce
+[main] INFO  testbase.TestBase  - Before Method
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - The credentials provided are incorrect
+[main] INFO  testbase.TestBase  - Welcome, please sign in!
+[main] INFO  testbase.TestBase  - After Method
+[main] INFO  testbase.TestBase  - Browser Closed
+[main] INFO  testbase.TestBase  - class testcases_testng.TestcaseTwo_browserOnce
+[main] INFO  testbase.TestBase  - Before Method
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - The credentials provided are incorrect
+[main] INFO  testbase.TestBase  - Welcome, please sign in!
+[main] INFO  testbase.TestBase  - After Method
+[main] INFO  testbase.TestBase  - Browser Closed
+[main] INFO  testbase.TestBase  - class testcases_testng.TestcaseTwo_browserOnce
+[main] INFO  testbase.TestBase  - Before Method
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - The credentials provided are incorrect
+[main] INFO  testbase.TestBase  - Welcome, please sign in!
+[main] INFO  testbase.TestBase  - After Method
+[main] INFO  testbase.TestBase  - Browser Closed
+[main] INFO  testbase.TestBase  - class testcases_testng.TestcaseTwo_browserOnce
+[main] INFO  testbase.TestBase  - Before Method
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - The credentials provided are incorrect
+[main] INFO  testbase.TestBase  - Welcome, please sign in!
+[main] INFO  testbase.TestBase  - After Method
+[main] INFO  testbase.TestBase  - Browser Closed
+[main] INFO  testbase.TestBase  - class testcases_testng.TestcaseTwo_browserOnce
+[main] INFO  testbase.TestBase  - Before Method
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - The credentials provided are incorrect
+[main] INFO  testbase.TestBase  - Welcome, please sign in!
+[main] INFO  testbase.TestBase  - After Method
+[main] INFO  testbase.TestBase  - Browser Closed
+[main] INFO  testbase.TestBase  - class testcases_testng.TestcaseTwo_browserOnce
+[main] INFO  testbase.TestBase  - Before Method
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - The credentials provided are incorrect
+[main] INFO  testbase.TestBase  - Welcome, please sign in!
+[main] INFO  testbase.TestBase  - After Method
+[main] INFO  testbase.TestBase  - Browser Closed
+[main] INFO  testbase.TestBase  - class testcases_testng.TestcaseTwo_browserOnce
+[main] INFO  testbase.TestBase  - Before Method
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - The credentials provided are incorrect
+[main] INFO  testbase.TestBase  - Welcome, please sign in!
+[main] INFO  testbase.TestBase  - After Method
+[main] INFO  testbase.TestBase  - Browser Closed
+[main] INFO  testbase.TestBase  - class testcases_testng.TestcaseTwo_browserOnce
+[main] INFO  testbase.TestBase  - Before Method
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - The credentials provided are incorrect
+[main] INFO  testbase.TestBase  - After Method
+[main] INFO  testbase.TestBase  - Browser Closed
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - class testcases_testng.TestcaseTwo_browserOnce
+[main] INFO  testbase.TestBase  - Before Method
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - The credentials provided are incorrect
+[main] INFO  testbase.TestBase  - After Method
+[main] INFO  testbase.TestBase  - Browser Closed
+[TestNG-test=Test-3] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=Test-2] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=Test-1] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=Test-3] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[TestNG-test=Test-1] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[TestNG-test=Test-2] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[TestNG-test=Test-3] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=Test-2] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=Test-1] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=Test-2] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=Test-3] INFO  testbase.TestBase  - class testcases_testng.TestcaseTwo_browserOnce
+[TestNG-test=Test-3] INFO  testbase.TestBase  - Before Method
+[TestNG-test=Test-3] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=Test-3] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[TestNG-test=Test-3] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=Test-1] INFO  testbase.TestBase  - After Method
+[TestNG-test=Test-1] INFO  testbase.TestBase  - Browser Closed
+[TestNG-test=Test-3] INFO  testbase.TestBase  - class testcases_testng.TestcaseTwo_browserOnce
+[TestNG-test=Test-3] INFO  testbase.TestBase  - Before Method
+[TestNG-test=Test-1] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=Test-3] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=Test-3] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[TestNG-test=Test-1] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[TestNG-test=Test-3] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=Test-3] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=Test-1] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=Test-3] INFO  testbase.TestBase  - After Method
+[TestNG-test=Test-1] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=Test-1] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[TestNG-test=Test-1] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=Test-1] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=Test-1] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[TestNG-test=Test-1] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=Test-1] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=ChromeTest-3] INFO  testbase.TestBase  - class testcases_testng.TestcaseTwo_browserOnce
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=ChromeTest-3] INFO  testbase.TestBase  - Before Method
+[TestNG-test=ChromeTest-3] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[TestNG-test=ChromeTest-3] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[TestNG-test=ChromeTest-3] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=ChromeTest-3] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=ChromeTest-3] INFO  testbase.TestBase  - After Method
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=FirefoxTest-3] INFO  testbase.TestBase  - class testcases_testng.TestcaseTwo_browserOnce
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=FirefoxTest-3] INFO  testbase.TestBase  - Before Method
+[TestNG-test=FirefoxTest-3] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[TestNG-test=FirefoxTest-3] INFO  testbase.TestBase  - Get Browser from properties:firefox
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=FirefoxTest-3] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=FirefoxTest-3] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=ChromeTest-3] INFO  testbase.TestBase  - class testcases_testng.TestcaseTwo_browserOnce
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=ChromeTest-3] INFO  testbase.TestBase  - Before Method
+[TestNG-test=ChromeTest-3] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[TestNG-test=ChromeTest-3] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=ChromeTest-3] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=ChromeTest-3] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=ChromeTest-3] INFO  testbase.TestBase  - After Method
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=ChromeTest-1] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=FirefoxTest-3] INFO  testbase.TestBase  - class testcases_testng.TestcaseTwo_browserOnce
+[TestNG-test=FirefoxTest-3] INFO  testbase.TestBase  - Before Method
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=FirefoxTest-3] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - Get Browser from properties:firefox
+[TestNG-test=FirefoxTest-3] INFO  testbase.TestBase  - Get Browser from properties:firefox
+[TestNG-test=FirefoxTest-3] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=FirefoxTest-3] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=FirefoxTest-3] INFO  testbase.TestBase  - After Method
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - Get Browser from properties:firefox
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - Start reading properties
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - Get Browser from properties:firefox
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - Maximize Browser
+[TestNG-test=FirefoxTest-1] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - After Method
+[main] INFO  testbase.TestBase  - After Method
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - class testcases_testng.TestcaseTwo_browserOnce
+[main] INFO  testbase.TestBase  - Before Method
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - The credentials provided are incorrect
+[main] INFO  testbase.TestBase  - After Method
+[main] INFO  testbase.TestBase  - Browser Closed
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - class testcases_testng.TestcaseTwo_browserOnce
+[main] INFO  testbase.TestBase  - Before Method
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - The credentials provided are incorrect
+[main] INFO  testbase.TestBase  - After Method
+[main] INFO  testbase.TestBase  - Browser Closed
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - class testcases_testng.TestcaseTwo_browserOnce
+[main] INFO  testbase.TestBase  - Before Method
+[main] INFO  testbase.TestBase  - Start reading properties
+[main] INFO  testbase.TestBase  - Get Browser from properties:chrome
+[main] INFO  testbase.TestBase  - Maximize Browser
+[main] INFO  testbase.TestBase  - URL:https://admin-demo.nopcommerce.com 
+[main] INFO  testbase.TestBase  - The credentials provided are incorrect
+[main] INFO  testbase.TestBase  - After Method
+[main] INFO  testbase.TestBase  - Browser Closed

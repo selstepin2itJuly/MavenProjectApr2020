@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 2, Errors: 0, Skipped: 1, Time elapsed: 57.517 sec <<< FAILURE!
+test3(testcases_testng.TestcaseOne)  Time elapsed: 0.005 sec  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at org.junit.Assert.fail(Assert.java:88)
+	at testcases_testng.TestcaseOne.test3(TestcaseOne.java:40)
+
+checkValidUsername(testcases_testng.TestcaseTwo_browserOnce)  Time elapsed: 20.59 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.failNotEquals(Assert.java:969)
+	at org.testng.Assert.assertTrue(Assert.java:43)
+	at org.testng.Assert.assertTrue(Assert.java:53)
+	at testcases_testng.TestcaseTwo_browserOnce.checkValidUsername(TestcaseTwo_browserOnce.java:30)
+
